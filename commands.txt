@@ -1,0 +1,7 @@
+victor
+lee
+hand
+play 1
+play 2 1 1
+inspect 1
+
